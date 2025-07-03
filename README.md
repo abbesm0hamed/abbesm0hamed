@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋 I'm Mohamed Abbes</h1>
 
-<p align="center">Full-Stack Developer | Maker | Lifelong Learner</p>
+<p align="center">Software engineer | Lifelong Learner</p>
 
 ---
 
@@ -8,8 +8,7 @@ I'm an embedded systems engineer by degree, but a software engineer by heart. I 
 
 - 🌍 Based in Tunisia  
 - ✉️ [abbesmohamed717@gmail.com](mailto:abbesmohamed717@gmail.com)  
-- 🧠 Currently diving deeper into Go
-
+- 🧠 Currently deepening my expertise in Go.
 ---
 
 ### 🔧 What I Do
@@ -23,5 +22,5 @@ I build full-stack apps, design systems, and enjoy working across the stack—wh
 <p>
   <a href="https://github.com/abbesm0hamed" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30" /></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/abbes-mohamed-4084b516b/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30" /></a>
+  <a href="https://www.linkedin.com/in/mohamed-abbes-4084b516b/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30" /></a>
 </p>
