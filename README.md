@@ -6,9 +6,7 @@
 
 I'm an embedded systems engineer by degree, but a software engineer by heart. I love building things—from clean UIs to robust backends—and I'm always curious about what’s under the hood.
 
-- 🌍 Based in Tunisia  
 - ✉️ [abbesmohamed717@gmail.com](mailto:abbesmohamed717@gmail.com)  
-- 🧠 Currently deepening my expertise in Go.
 ---
 
 ### 🔧 What I Do
