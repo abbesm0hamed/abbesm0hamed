@@ -1,24 +1,17 @@
-<h1 align="center">Hey there 👋 I'm Mohamed Abbes</h1>
-
-<p align="center">Software engineer | Lifelong Learner</p>
+<p align="center"><i>Turning complex problems into things that just work.</i></p>
 
 ---
 
-I'm an embedded systems engineer by degree, but a software engineer by heart. I love building things—from clean UIs to robust backends—and I'm always curious about what’s under the hood.
+Software engineer with a background in embedded systems. I build across the stack and care about the details — from how something feels to how it runs.
 
-- ✉️ [abbesmohamed717@gmail.com](mailto:abbesmohamed717@gmail.com)  
----
-
-### 🔧 What I Do
-
-I build full-stack apps, design systems, and enjoy working across the stack—whether it's wiring up APIs, shipping frontend features, or automating workflows.
+- ✉️ [abbesmohamed717@gmail.com](mailto:abbesmohamed717@gmail.com)
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
 <p>
-  <a href="https://github.com/abbesm0hamed" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="30" /></a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/mohamed-abbes-4084b516b/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30" /></a>
+  &nbsp;
+  <a href="https://x.com/thr3add" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="30" /></a>
 </p>
