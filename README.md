@@ -11,7 +11,7 @@ Software engineer with a background in embedded systems. I build across the stac
 ### Let's Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/mohamed-abbes-4084b516b/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30" /></a>
+  <a href="https://www.linkedin.com/in/abbesm0hamed" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="30" /></a>
   &nbsp;
   <a href="https://x.com/thr3add" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="30" /></a>
 </p>
